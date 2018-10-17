@@ -1,2 +1,2 @@
 # springAnnotations
-Basic spring anootations 
+Basic spring annotations 
